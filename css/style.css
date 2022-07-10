@@ -13,9 +13,14 @@
 /* Tecnlogia */
 @import './home/tecnologia.css';
 
+/* Parceiros */
+@import './home/parceiros.css';
+
+/* Depoimentos */
+@import './home/depoimento.css';
 
 /* Bicicletas */
 @import './bicicletas/bicicletas-lista.css';
 
-/* Parceiros */
-@import './home/parceiros.css';
+
+
