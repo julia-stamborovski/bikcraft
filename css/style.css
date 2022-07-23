@@ -41,5 +41,8 @@
 /* loja */
 @import './contato/lojas.css';
 
+/* orcamento */
+@import './orcamento/orcamento.css';
+
 /* Termos */
 @import './termos/termos.css';
